@@ -1,0 +1,12 @@
+li {
+    font-size: 20px;
+}
+
+body {
+    text-align: justify;
+    padding: 20px 40px;
+}
+fieldset {
+    margin-right: 30%;
+    margin-bottom: 20px;
+}

@@ -1,8 +1,9 @@
 li a {
-    color: red;
+    color: blue;
     font-size: 40px;
 }
 
 body {
     background: white url("images/background.png") no-repeat;
+    padding: 20px 40px;
 }
